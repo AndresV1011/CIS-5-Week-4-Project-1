@@ -16,13 +16,13 @@ int main() {
 
   // TODO (week 2): a cout question, then a cin into the box — four times
   std::cout << "Name?\n";
-  std::cin >> "Andres V\n";
+  std::cin >> name;
   std::cout << "Age?\n";
-  std::cin >> "15\n";
+  std::cin >> age;
   std::cout << "How much credits this term?\n";
-  std::cin >> "10\n";
+  std::cin >> credits;
   std::cout << "GPA?\n";
-  std::cin >> "4.3\n";
+  std::cin >> gpa;
 
   // TODO (week 4): one computed line with an operator
    
